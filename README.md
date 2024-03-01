@@ -1,1 +1,1 @@
-# global-game-jam-2024
+# global-game-jam-24
